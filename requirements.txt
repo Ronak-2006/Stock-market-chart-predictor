@@ -1,0 +1,9 @@
+# Compatible with Python 3.13 (prebuilt wheels available)
+numpy>=2.1.0
+pandas>=2.2.3
+scikit-learn>=1.5.2
+tensorflow>=2.18.0
+statsmodels>=0.14.4
+plotly>=5.24.0
+kaleido==0.2.1
+yfinance>=0.2.43
